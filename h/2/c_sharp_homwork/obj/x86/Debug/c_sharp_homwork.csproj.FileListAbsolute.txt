@@ -1,0 +1,7 @@
+C:\Users\user\documents\visual studio 2010\Projects\c_sharp_homwork\c_sharp_homwork\bin\Debug\c_sharp_homwork.exe
+C:\Users\user\documents\visual studio 2010\Projects\c_sharp_homwork\c_sharp_homwork\bin\Debug\c_sharp_homwork.pdb
+C:\Users\user\documents\visual studio 2010\Projects\c_sharp_homwork\c_sharp_homwork\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\c_sharp_homwork\c_sharp_homwork\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\c_sharp_homwork\c_sharp_homwork\obj\x86\Debug\c_sharp_homwork.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\c_sharp_homwork\c_sharp_homwork\obj\x86\Debug\c_sharp_homwork.exe
+C:\Users\user\documents\visual studio 2010\Projects\c_sharp_homwork\c_sharp_homwork\obj\x86\Debug\c_sharp_homwork.pdb

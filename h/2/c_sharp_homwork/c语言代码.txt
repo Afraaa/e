@@ -1,0 +1,14 @@
+
+
+#include<studio.h>
+int main(){
+	int i=1;
+	string str="abc";
+	for(int i = 0;i < 10; i++){}
+	while(i>10){}
+	do(){}while(i<10)
+/*
+sdajkfhsd
+*/
+/*sfjddshfk*/
+}
